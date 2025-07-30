@@ -128,10 +128,14 @@ TexturePtr sDungeonTitleTexturesGC[] = {
 };
 
 TexturePtr sDungeonTitleTexturesGCPAL[][4] = {
-    { gPauseWoodfallTitleGCENGTex, gPauseSnowheadTitleGCENGTex, gPauseGreatBayTitleGCENGTex, gPauseStoneTowerTitleGCENGTex },
-    { gPauseWoodfallTitleGCGERTex, gPauseSnowheadTitleGCGERTex, gPauseGreatBayTitleGCGERTex, gPauseStoneTowerTitleGCGERTex },
-    { gPauseWoodfallTitleGCFRATex, gPauseSnowheadTitleGCFRATex, gPauseGreatBayTitleGCFRATex, gPauseStoneTowerTitleGCFRATex },
-    { gPauseWoodfallTitleGCESPTex, gPauseSnowheadTitleGCESPTex, gPauseGreatBayTitleGCESPTex, gPauseStoneTowerTitleGCESPTex },
+    { gPauseWoodfallTitleGCENGTex, gPauseSnowheadTitleGCENGTex, gPauseGreatBayTitleGCENGTex,
+      gPauseStoneTowerTitleGCENGTex },
+    { gPauseWoodfallTitleGCGERTex, gPauseSnowheadTitleGCGERTex, gPauseGreatBayTitleGCGERTex,
+      gPauseStoneTowerTitleGCGERTex },
+    { gPauseWoodfallTitleGCFRATex, gPauseSnowheadTitleGCFRATex, gPauseGreatBayTitleGCFRATex,
+      gPauseStoneTowerTitleGCFRATex },
+    { gPauseWoodfallTitleGCESPTex, gPauseSnowheadTitleGCESPTex, gPauseGreatBayTitleGCESPTex,
+      gPauseStoneTowerTitleGCESPTex },
 };
 // #endregion
 
